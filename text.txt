@@ -1,0 +1,10 @@
+ Volume in drive D is Work and study
+ Volume Serial Number is 4AEC-F037
+
+ Directory of D:\GitProject
+
+10/06/2020  00:09    <DIR>          .
+10/06/2020  00:09    <DIR>          ..
+10/06/2020  00:09                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  127.516.024.832 bytes free
